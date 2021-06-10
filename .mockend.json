@@ -1,0 +1,9 @@
+{
+  "Post": {
+    "title": "string",
+    "image": "string",
+    "price": "int",
+    "salePrice": "int",
+    "inStock": "boolean"
+  }
+}
