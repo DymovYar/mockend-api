@@ -4,6 +4,6 @@
     "image": "string",
     "price": "int",
     "salePrice": "int",
-    "inStock": "boolean"
+    "isReserved": "boolean"
   }
 }
